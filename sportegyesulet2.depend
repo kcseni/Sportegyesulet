@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1589549427 source:c:\users\user\documents\sportegyesulet2\main.cpp
+	<iostream>
+	<string>
+	"foci.h"
+	"kosar.h"
+	"kezi.h"
+	<fstream>
+	<iomanip>
+	"csapat.h"
+	"lista.h"
+	"memtrace.h"
+
+1588018228 c:\users\user\documents\sportegyesulet2\foci.h
+	<iostream>
+	<string>
+	"csapat.h"
+
+1589330852 c:\users\user\documents\sportegyesulet2\csapat.h
+	<iostream>
+	<string>
+
+1588018228 c:\users\user\documents\sportegyesulet2\kosar.h
+	<iostream>
+	<string>
+	"csapat.h"
+
+1588018228 c:\users\user\documents\sportegyesulet2\kezi.h
+	"csapat.h"
+	<iostream>
+	<string>
+
+1588017259 source:c:\users\user\documents\sportegyesulet2\foci.cpp
+	<iostream>
+	<string>
+	"csapat.h"
+	"foci.h"
+
+1588017482 source:c:\users\user\documents\sportegyesulet2\kezi.cpp
+	<iostream>
+	<string>
+	"csapat.h"
+	"kezi.h"
+
+1588017482 source:c:\users\user\documents\sportegyesulet2\kosar.cpp
+	<iostream>
+	<string>
+	"csapat.h"
+	"kosar.h"
+
+1588023114 c:\users\user\documents\sportegyesulet2\lista.h
+	<string>
+	"csapat.h"
+	<iostream>
+	<fstream>
+
+1589544446 source:c:\users\user\documents\sportegyesulet2\lista.cpp
+	<string>
+	"csapat.h"
+	<iostream>
+	<fstream>
+	"lista.h"
+	"foci.h"
+	"kezi.h"
+	"kosar.h"
+
+1589370373 source:c:\users\user\documents\sportegyesulet2\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1589227800 c:\users\user\documents\sportegyesulet2\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
