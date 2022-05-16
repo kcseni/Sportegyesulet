@@ -3,6 +3,6 @@
 
 **Author:** Keresztes Csenge
 
-A console application written in C ++ for recording the data of sports associations.
+A console application written in C ++ for recording the data of sport clubs.
 
 > For more information read the documentation
